@@ -1,12 +1,15 @@
 name: stx_easy_localization_generator
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
-# homepage: https://www.example.com
+
+homepage: https://github.com/VolodymyrSydorko/stx_easy_localization_generator
+repository: https://github.com/VolodymyrSydorko/stx_easy_localization_generator
+documentation: https://github.com/VolodymyrSydorko/stx_easy_localization_generator
 
 environment:
   sdk: '>=2.17.0 <3.0.0'
 
-dependencies: 
+dependencies:
   path: ^1.8.2
   args: ^2.3.1
 
